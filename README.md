@@ -21,7 +21,7 @@ My name is Aditya Bhandari, a Computer Science student of R.V. College of Engine
 ## 🛠️ Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,tensorflow,pandas" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,tensorflow,sklearn" />
   </a>
 </p>
 
