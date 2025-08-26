@@ -1,6 +1,6 @@
 ## 👋 Hello there 
 
-My name is Aditya Bhandari, a Computer Science student of R.V. College of Engineering.
+My name is Aditya Bhandari. I'm a Computer Science student of R.V. College of Engineering.
 
 - 🔭 Currently working on Machine Learning projects
 - 🌱 Currently learning DSA in C++ and solving LeetCode
