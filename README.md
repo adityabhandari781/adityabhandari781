@@ -2,9 +2,9 @@
 
 My name is Aditya Bhandari. I'm a Computer Science student of R.V. College of Engineering.
 
-- 🔭 Currently working on Machine Learning projects
-- 🌱 Currently learning DSA in C++ and solving LeetCode
-- 🤝 Looking to collaborate on Machine Learning projects
+- 🔭 Working on Machine Learning projects
+- 🌱 Currently learning backend development
+- 🤝 Looking to collaborate on AI/ML projects
 
 ## 🌐 Socials  
 <div align="center">
@@ -21,17 +21,26 @@ My name is Aditya Bhandari. I'm a Computer Science student of R.V. College of En
 ## 🛠️ Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,tensorflow,sklearn" />
+    <img src="https://skillicons.dev/icons?i=c,cpp" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind" />
   </a>
 </p>
+
+## 💹 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/adityabhandari781?theme=dark&font=Nunito&ext=contest)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=adityabhandari781&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityabhandari781&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityabhandari781&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=umaryaksambi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+--> 
 
 ## 🤿 Random ~~Dev~~ Quote
 > **"May the force be with you... Harry Potter"**  
