@@ -6,6 +6,17 @@ My name is Aditya Bhandari. I'm a Computer Science student of R.V. College of En
 - 🌱 Currently learning backend development
 - 🤝 Looking to collaborate on AI/ML projects
 
+## 🛠️ Languages and frameworks
+<p align="center">
+  <!-- <div> -->
+    <img src="https://skillicons.dev/icons?i=c,cpp" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch,opencv" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,fastapi,vite,mongodb,postgresql,firebase,bots" />
+  <!-- </div> -->
+</p>
+
 ## 🌐 Socials  
 <div align="center">
   
@@ -17,17 +28,6 @@ My name is Aditya Bhandari. I'm a Computer Science student of R.V. College of En
   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/machinegun2187_) 
   [![Discord](https://img.shields.io/badge/Discord:_@aditya__bhandari-blue)](https://discord.com) 
 </div>
-
-## 🛠️ Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind" />
-  </a>
-</p>
 
 ## 💹 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/adityabhandari781?theme=dark&font=Nunito&ext=contest)
