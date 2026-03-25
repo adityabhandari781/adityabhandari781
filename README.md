@@ -64,7 +64,7 @@ My name is Aditya Bhandari. I'm a Computer Science student of R.V. College of En
     <!-- <img src="https://img.shields.io/badge/Discord-aditya__bhandari-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> -->
     <!-- <img src="https://img.shields.io/badge/Discord-@aditya__bhandari-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> -->
     <!-- <img src="https://img.shields.io/badge/Discord-@aditya__bhandari-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" /> -->
-    <img src="https://img.shields.io/badge/@aditya__bhandari-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/@aditya__bhandari_(all_lower_case)-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
